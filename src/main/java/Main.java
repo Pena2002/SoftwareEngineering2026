@@ -26,5 +26,9 @@ public class Main {
 
         System.out.println("========================");
         System.out.println("软件工程实验一运行完成！");
+        System.out.println("第二位组员：TIMUR202616");
+        System.out.println("新增功能：Git协作开发成功！");
+        System.out.println("GitHub更新成功！");
+        // Git版本管理测试
     }
 }
